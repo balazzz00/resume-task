@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(234, 215, 215);
+}
+
+#image{
+    position: relative;
+    padding: 3px;
+    top: 25px;
+}
+
+#name{
+    background-color: rgb(238, 53, 53);
+    font-size: larger;
+    padding: 10px;
+    border-color: black;
+    border-radius: 10px;
+    width: 500px;
+    position: relative;
+    left: 500px;
+    bottom: 92px;
+}
+
+#blank{
+    background-color: rgb(255, 240, 240);
+}
+
+#parent{
+    background-color: rgb(255, 240, 240);
+    padding: 10px;
+    height:1250px;
+    position: relative;
+    bottom: 30px;
+}
+
+#box1{
+    width:750px;
+}
+
+#box2{
+    width:750px;
+    position: relative;
+    left: 750px;
+    bottom: 1080px;
+}
+
+.child{
+    font-size: 40px;
+    color: rgb(235, 135, 135);
+    padding-left: 5px;
+}
+
+.sub{
+    font-size: 25px;
+}
+
+table{
+    width: 750px;
+}
+
+.slider{
+    
+    width: 500px;
+    margin-left: 50px;
+}
+
+span{
+    margin-left: 380px;
+}
